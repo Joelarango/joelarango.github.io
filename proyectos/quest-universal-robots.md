@@ -43,7 +43,7 @@ El sistema conecta los siguientes componentes:
 
 <div style="text-align: center;">
   <img
-    src="/assets/images/ur3_gv.png"
+    src="/assets/images/teleoperacion.png"
     alt="Operación y visualización de robots Universal Robots mediante Meta Quest 3"
     style="width: 100%; max-width: 650px; height: auto;">
 
