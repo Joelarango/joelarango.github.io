@@ -11,6 +11,11 @@ permalink: /proyectos/quest-universal-robots/
 
 Entorno inmersivo para visualizar, controlar y analizar robots colaborativos UR3 y UR5 mediante Meta Quest 3.
 
+![Operación y visualización de robots Universal Robots mediante Meta Quest 3](/assets/images/ur3_gv.png)
+
+*Gemelo digital UR3.*
+
+
 ## Descripción
 
 Este proyecto integra realidad mixta, gemelos digitales y comunicación en tiempo real para conectar una aplicación desarrollada en Unity con robots Universal Robots y entornos de simulación.
