@@ -6,7 +6,7 @@ description: Portafolio profesional de Joel Arango.
 permalink: /
 ---
 
-# Joel Arango
+# Joel Arango Ramírez
 {: .fs-9 }
 
 ## Ingeniería mecatrónica, robótica y realidad extendida
