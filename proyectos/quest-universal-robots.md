@@ -41,6 +41,18 @@ El sistema conecta los siguientes componentes:
 4. **RoboDK:** simulación y validación de movimientos.
 5. **Universal Robots:** ejecución en el robot colaborativo.
 
+<div style="text-align: center;">
+  <img
+    src="/assets/images/ur3_gv.png"
+    alt="Operación y visualización de robots Universal Robots mediante Meta Quest 3"
+    style="width: 100%; max-width: 650px; height: auto;">
+
+  <p><em>Teleoperación del Yaskawa HC10 mediante Microsoft HoloLens 2.</em></p>
+</div>
+
+
+
+
 Flujo general:
 
 ```text
