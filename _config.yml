@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Joel Arango
+description: Portafolio profesional de ingeniería, robótica, realidad extendida e investigación.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://joelarango.github.io
+
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Perfil de GitHub":
+    - "https://github.com/joelarango"
+
+aux_links_new_tab: true
+
+footer_content: "Joel Arango — Ingeniería, robótica y realidad extendida."
