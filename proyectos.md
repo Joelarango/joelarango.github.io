@@ -30,6 +30,8 @@ La aplicación permite manipular un objetivo virtual, calcular el movimiento med
 - MQTT y Python.
 - RoboDK.
 
+[Ver proyecto y colaboración con Linnaeus University](proyectos/yaskawa-hololens/){: .btn }
+
 ---
 
 ## Operación de robots Universal Robots con Meta Quest 3
@@ -46,6 +48,24 @@ El sistema conecta el entorno virtual con simuladores y robots mediante comunica
 - URScript.
 - MQTT, UDP y Python.
 - RoboDK.
+
+[Ver proyecto con robots UR](proyectos/quest-universal-robots/){: .btn }
+
+---
+
+## Proyectos internacionales
+
+### UR3 — Pontificia Universidad Javeriana, Colombia
+
+Implementación y demostración de una plataforma de realidad mixta para teleoperar un robot colaborativo UR3 y acercar su operación a estudiantes y usuarios no expertos.
+
+[Ver proyecto en Colombia](proyectos/ur3-javeriana/){: .btn }
+
+### UR5 — Białystok University of Technology, Polonia
+
+Teleoperación de un robot UR5 mediante Meta Quest 3, Unity y un gemelo digital conectado desde una interfaz inmersiva.
+
+[Ver proyecto en Polonia](proyectos/ur5-bialystok/){: .btn }
 
 ---
 

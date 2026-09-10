@@ -9,12 +9,13 @@ permalink: /
 # Joel Arango Ramírez
 {: .fs-9 }
 
-## Ingeniería mecatrónica, robótica y realidad extendida
+## IA, robótica, automatización y realidad extendida
 {: .fs-6 .fw-300 }
 
-Desarrollo soluciones que integran robots colaborativos, realidad mixta, inteligencia artificial y gemelos digitales para mejorar la interacción, capacitación y colaboración entre humanos y robots.
+Soy ingeniero mecatrónico, maestro y doctorando en Ciencias de la Ingeniería. Desarrollo sistemas que integran robots colaborativos, realidad extendida, inteligencia artificial, agentes autónomos y gemelos digitales para mejorar la interacción, el aprendizaje y la colaboración entre humanos y robots.
 
 [Ver proyectos](proyectos/){: .btn .btn-primary }
+[Investigación y publicaciones](investigacion/){: .btn }
 [Conocer mi perfil](perfil/){: .btn }
 
 ---
@@ -35,7 +36,21 @@ Integración de robots reales y virtuales mediante Unity, RoboDK, MQTT, Python y
 
 ### Inteligencia artificial aplicada
 
-Investigación de agentes inteligentes, modelos predictivos y métodos neuro-simbólicos para capacitación e interacción humano-robot.
+Investigación de sistemas multiagente, aprendizaje acumulativo de habilidades, modelos predictivos y métodos neuro-simbólicos para la interacción humano-robot.
+
+### Automatización y sistemas ciberfísicos
+
+Integración de PLC, IoT, comunicaciones industriales y plataformas inmersivas para supervisión, operación y capacitación.
+
+---
+
+## Colaboración internacional
+
+He desarrollado y presentado plataformas de teleoperación robótica en colaboración con instituciones de Colombia, Polonia y Suecia:
+
+- **Pontificia Universidad Javeriana, Colombia:** teleoperación de un UR3 mediante realidad mixta.
+- **Białystok University of Technology, Polonia:** teleoperación de un UR5 con Meta Quest 3.
+- **Linnaeus University, Suecia:** programación y teleoperación de un Yaskawa HC10 mediante HoloLens 2.
 
 ---
 

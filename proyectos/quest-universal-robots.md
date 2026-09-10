@@ -47,7 +47,7 @@ El sistema conecta los siguientes componentes:
     alt="Operación y visualización de robots Universal Robots mediante Meta Quest 3"
     style="width: 100%; max-width: 650px; height: auto;">
 
-  <p><em>Teleoperación del Yaskawa HC10 mediante Microsoft HoloLens 2.</em></p>
+  <p><em>Arquitectura de teleoperación de robots Universal Robots mediante Meta Quest 3.</em></p>
 </div>
 
 
@@ -62,3 +62,19 @@ Meta Quest 3
   ↔ Python
   ↔ RoboDK
   ↔ Robot UR3 o UR5
+```
+
+## Implementaciones internacionales
+
+Esta plataforma se ha desarrollado y demostrado en dos contextos internacionales:
+
+- **Pontificia Universidad Javeriana, Colombia:** operación de un robot UR3.
+- **Białystok University of Technology, Polonia:** operación de un robot UR5 mediante Meta Quest 3.
+
+## Resultados
+
+- Sincronización del gemelo digital y el robot.
+- Comunicación bidireccional entre Unity, Python, RoboDK y Universal Robots.
+- Interacción mediante controladores y seguimiento de manos.
+- Validación previa de movimientos en un entorno virtual.
+- Demostración de teleoperación entre instituciones internacionales.

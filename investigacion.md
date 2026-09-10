@@ -9,13 +9,13 @@ permalink: /investigacion/
 
 # Investigación y publicaciones
 
-Mi investigación se enfoca en la integración de realidad mixta, inteligencia artificial y robótica colaborativa para desarrollar sistemas de operación y capacitación más intuitivos.
+Mi investigación doctoral estudia cómo humanos, agentes de inteligencia artificial y robots heterogéneos pueden adquirir, verificar, transferir y mejorar habilidades físicas a lo largo del tiempo.
 
 ## Línea de investigación
 
-### Realidad mixta e inteligencia artificial para interacción humano-robot
+### Cultura acumulativa multiagente para habilidades físicas
 
-La investigación estudia cómo las interfaces inmersivas y los agentes inteligentes pueden ayudar a usuarios expertos y no expertos durante la operación de robots colaborativos.
+La propuesta integra realidad extendida, inteligencia artificial y robótica para que una habilidad enseñada por una persona pueda conservar su procedencia, adaptarse a robots diferentes y evolucionar sin perder restricciones verificables de seguridad y desempeño.
 
 El sistema propuesto integra:
 
@@ -27,6 +27,9 @@ El sistema propuesto integra:
 - Modelos predictivos del comportamiento humano.
 - Inteligencia artificial neuro-simbólica.
 - Aprendizaje por refuerzo.
+- Sistemas multiagente.
+- Genealogía y transferencia de habilidades.
+- Invariantes verificables.
 - Restricciones de seguridad.
 - Comunicación en tiempo real.
 
@@ -38,22 +41,24 @@ Las interfaces de realidad mixta pueden reducir esta dificultad al presentar ins
 
 ## Objetivo general
 
-Desarrollar y evaluar un sistema inteligente de realidad mixta que facilite el entrenamiento y la operación segura de robots colaborativos por usuarios con diferentes niveles de experiencia.
+Desarrollar y evaluar una arquitectura multiagente que permita aprender, transferir y mejorar habilidades físicas entre humanos y robots heterogéneos mediante realidad extendida, conservando trazabilidad y restricciones verificables.
 
 ## Objetivos específicos
 
 1. Diseñar una interfaz de realidad mixta para interactuar con un robot colaborativo.
 2. Implementar un gemelo digital conectado con el robot.
-3. Registrar movimientos y patrones realizados por usuarios expertos.
-4. Desarrollar mecanismos inteligentes de asistencia.
-5. Incorporar restricciones de seguridad y prevención de movimientos peligrosos.
-6. Evaluar precisión, tiempo, carga cognitiva y facilidad de aprendizaje.
-7. Comparar el desempeño de usuarios expertos y no expertos.
+3. Registrar demostraciones, movimientos y decisiones de usuarios expertos.
+4. Representar habilidades de forma transferible entre robots heterogéneos.
+5. Mantener una genealogía que documente el origen y evolución de cada habilidad.
+6. Incorporar agentes inteligentes, aprendizaje y restricciones verificables.
+7. Evaluar transferencia, precisión, seguridad, tiempo y facilidad de aprendizaje.
 
 ## Preguntas de investigación
 
 - ¿La realidad mixta puede reducir el tiempo necesario para aprender a operar un robot colaborativo?
-- ¿Un agente inteligente puede mejorar la precisión de usuarios no expertos?
+- ¿Cómo puede una comunidad de humanos y robots acumular conocimiento físico reutilizable?
+- ¿Qué componentes de una habilidad permanecen invariantes al cambiar de robot?
+- ¿Cómo puede verificarse la seguridad de una habilidad aprendida o modificada?
 - ¿Qué información debe mostrar la interfaz para aumentar la seguridad sin incrementar la carga cognitiva?
 - ¿Cómo pueden combinarse conocimiento simbólico y aprendizaje automático para asistir al operador?
 - ¿Qué diferencias existen entre la interacción mediante controladores, manos y objetos virtuales?
@@ -84,15 +89,6 @@ La investigación contempla:
 - Interfaces naturales.
 - Industria 4.0 y 5.0.
 
-## Publicaciones
+## Producción académica
 
-Esta sección reunirá artículos, capítulos, ponencias y otros resultados académicos relacionados con la investigación.
-
-Las publicaciones se agregarán únicamente cuando exista información verificable, como:
-
-- Título completo.
-- Autores.
-- Revista o congreso.
-- Año de publicación.
-- DOI o dirección oficial.
-- Documento disponible públicamente.
+Consulta la página de [publicaciones, ponencias y proyectos asesorados](publicaciones/).

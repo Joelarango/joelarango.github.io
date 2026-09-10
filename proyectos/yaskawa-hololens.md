@@ -11,6 +11,8 @@ permalink: /proyectos/yaskawa-hololens/
 
 Sistema de realidad mixta para visualizar, controlar y programar trayectorias de un robot colaborativo Yaskawa MOTOMAN HC10.
 
+Proyecto desarrollado en colaboración entre la **Universidad Iberoamericana Ciudad de México** y **Linnaeus University, Suecia**.
+
 ## Descripción
 
 El proyecto permite que un usuario manipule un objetivo virtual desde Microsoft HoloLens 2. Un gemelo digital del robot calcula y reproduce el movimiento necesario para seguir ese objetivo.
@@ -44,3 +46,17 @@ Usuario
   → MQTT
   → Aplicación Python
   → RoboDK o Yaskawa HC10
+```
+
+## Funcionalidades implementadas
+
+- Manipulación espacial del objetivo mediante HoloLens 2.
+- Seguimiento del objetivo mediante cinemática inversa.
+- Indicadores visuales de alcance y proximidad.
+- Registro, reproducción y envío de trayectorias.
+- Validación de mensajes y confirmación de recepción mediante MQTT.
+- Simulación previa en RoboDK antes de la ejecución física.
+
+## Colaboración internacional
+
+La plataforma permitió programar desde México movimientos destinados a un robot Yaskawa HC10 ubicado en Suecia, observar anticipadamente su comportamiento mediante un gemelo digital y transferir las trayectorias para validación y ejecución.
