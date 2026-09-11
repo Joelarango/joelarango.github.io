@@ -27,7 +27,7 @@ He desarrollado proyectos orientados a:
 - Operación y teleoperación de robots colaborativos.
 - Creación de gemelos digitales en Unity.
 - Desarrollo de aplicaciones para Meta Quest 3 y Microsoft HoloLens 2.
-- Integración de sistemas mediante MQTT, Python y C#.
+- Integración de sistemas mediante MQTT, WebSocket, app web, Python y C#, etc.
 - Simulación y validación de movimientos robóticos con RoboDK.
 - Diseño de experiencias de capacitación mediante realidad mixta.
 - Aplicación de inteligencia artificial en la interacción humano-robot.
@@ -62,6 +62,8 @@ He desarrollado proyectos orientados a:
 - UDP y TCP.
 - JSON.
 - Git y GitHub.
+- WebSocket
+- Full Stack
 
 ## Líneas de trabajo
 
@@ -73,6 +75,7 @@ Actualmente, mis principales líneas de trabajo incluyen:
 4. Inteligencia artificial para interacción humano-robot.
 5. Sistemas multiagente y aprendizaje acumulativo de habilidades.
 6. Sistemas de entrenamiento para usuarios no expertos.
+7. Apoyo en desarrollo de proyectos de alto impacto con alumnos.
 
 ## Colaboraciones internacionales
 
@@ -85,6 +88,7 @@ Actualmente, mis principales líneas de trabajo incluyen:
 - [ResearchGate](https://www.researchgate.net/profile/Joel-Arango)
 - [GitHub](https://github.com/Joelarango)
 - [Canal de YouTube](https://www.youtube.com/channel/UCzoiDcSQTelaB10UvZGwGkA)
+- [Linkedin](https://www.linkedin.com/in/joel-arango-ram%C3%ADrez-703a16303/)
 - Correo institucional: [joel.arango@ibero.mx](mailto:joel.arango@ibero.mx)
 
 ## Objetivo profesional
