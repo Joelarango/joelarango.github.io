@@ -70,6 +70,20 @@ permalink: /
   </div>
 </section>
 
+<section class="portfolio-students" aria-labelledby="students-title">
+  <div class="portfolio-students__content">
+    <p class="portfolio-kicker">Docencia y mentoría</p>
+    <h2 id="students-title">Proyectos de estudiantes</h2>
+    <p>Trabajos desarrollados por estudiantes bajo mi asesoría académica y tecnológica, con autoría reconocida, documentación de resultados y proyección hacia publicaciones y aplicaciones reales.</p>
+    <a class="portfolio-text-link" href="/proyectos-estudiantes/">Explorar proyectos estudiantiles <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="portfolio-students__highlight">
+    <span>Proyecto destacado · CDSR 2025</span>
+    <strong>Mixed Reality Platform for PLC Operation</strong>
+    <small>Londres, Reino Unido</small>
+  </div>
+</section>
+
 <section class="portfolio-feature">
   <div>
     <p class="portfolio-kicker">Investigación doctoral</p>
