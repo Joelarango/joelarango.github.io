@@ -86,7 +86,6 @@ Actualmente, mis principales líneas de trabajo incluyen:
 ## Enlaces académicos y profesionales
 
 - [ResearchGate](https://www.researchgate.net/profile/Joel-Arango)
-- [GitHub](https://github.com/Joelarango)
 - [Canal de YouTube](https://www.youtube.com/channel/UCzoiDcSQTelaB10UvZGwGkA)
 - [Linkedin](https://www.linkedin.com/in/joel-arango-ram%C3%ADrez-703a16303/)
 - Correo institucional: [joel.arango@ibero.mx](mailto:joel.arango@ibero.mx)

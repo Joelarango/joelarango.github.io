@@ -2,67 +2,85 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: Portafolio profesional de Joel Arango.
+description: Portafolio académico y profesional de Joel Arango Ramírez.
 permalink: /
 ---
 
-# Joel Arango Ramírez
-{: .fs-9 }
+<section class="portfolio-hero">
+  <div class="portfolio-hero__content">
+    <p class="portfolio-eyebrow">Ingeniería · Investigación · Innovación</p>
+    <h1>Joel Arango Ramírez</h1>
+    <p class="portfolio-role">IA, robótica y realidad extendida para conectar personas, máquinas y conocimiento.</p>
+    <p class="portfolio-lead">Ingeniero mecatrónico, maestro y doctorando en Ciencias de la Ingeniería. Desarrollo sistemas inteligentes que integran robots colaborativos, agentes de IA, gemelos digitales y entornos inmersivos.</p>
+    <div class="portfolio-actions">
+      <a class="btn btn-primary" href="/proyectos/">Explorar proyectos</a>
+      <a class="btn portfolio-btn-secondary" href="/investigacion/">Ver investigación</a>
+    </div>
+    <ul class="portfolio-meta" aria-label="Áreas principales">
+      <li>Robótica colaborativa</li>
+      <li>Interacción humano-robot</li>
+      <li>Sistemas multiagente</li>
+    </ul>
+  </div>
 
-## IA, robótica, automatización y realidad extendida
-{: .fs-6 .fw-300 }
+  <aside class="portfolio-profile" aria-label="Resumen profesional">
+    <div class="portfolio-photo-frame">
+      <img src="/assets/images/joel-arango.jpeg" alt="Retrato profesional de Joel Arango Ramírez">
+    </div>
+    <div class="portfolio-profile__body">
+      <span class="portfolio-profile__label">Perfil académico</span>
+      <h2>Investigación aplicada con impacto humano</h2>
+      <p>Jefe de Proyectos Especiales en la Universidad Iberoamericana Ciudad de México. Colaboraciones académicas en Colombia, Polonia y Suecia.</p>
+    </div>
+  </aside>
+</section>
 
-Soy ingeniero mecatrónico, maestro y doctorando en Ciencias de la Ingeniería. Desarrollo sistemas que integran robots colaborativos, realidad extendida, inteligencia artificial, agentes autónomos y gemelos digitales para mejorar la interacción, el aprendizaje y la colaboración entre humanos y robots.
+<section class="portfolio-section" aria-labelledby="enfoque-title">
+  <div class="portfolio-section__heading">
+    <p class="portfolio-kicker">Enfoque profesional</p>
+    <h2 id="enfoque-title">Del laboratorio a sistemas que las personas pueden utilizar</h2>
+    <p>Mi trabajo reúne investigación, ingeniería y docencia alrededor de tres ejes complementarios.</p>
+  </div>
 
-[Ver proyectos](proyectos/){: .btn .btn-primary }
-[Investigación y publicaciones](investigacion/){: .btn }
-[Conocer mi perfil](perfil/){: .btn }
+  <div class="portfolio-card-grid">
+    <article class="portfolio-card">
+      <span class="portfolio-card__number">01</span>
+      <h3>Robótica y XR</h3>
+      <p>Teleoperación, capacitación inmersiva y gemelos digitales para robots UR3, UR5 y Yaskawa HC10.</p>
+      <a href="/proyectos/">Conocer los proyectos <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="portfolio-card">
+      <span class="portfolio-card__number">02</span>
+      <h3>Inteligencia artificial</h3>
+      <p>Sistemas multiagente, aprendizaje acumulativo de habilidades y métodos neuro-simbólicos para HRI.</p>
+      <a href="/investigacion/">Revisar la investigación <span aria-hidden="true">→</span></a>
+    </article>
+    <article class="portfolio-card">
+      <span class="portfolio-card__number">03</span>
+      <h3>Automatización</h3>
+      <p>Integración de PLC, IoT, comunicaciones industriales y plataformas inmersivas para educación e industria.</p>
+      <a href="/perfil/">Ver experiencia y tecnologías <span aria-hidden="true">→</span></a>
+    </article>
+  </div>
+</section>
 
----
+<section class="portfolio-feature">
+  <div>
+    <p class="portfolio-kicker">Investigación doctoral</p>
+    <h2>Cultura acumulativa multiagente para habilidades físicas</h2>
+  </div>
+  <div>
+    <p>Una arquitectura para que humanos, agentes de IA y robots heterogéneos aprendan, verifiquen, transfieran y mejoren habilidades físicas conservando trazabilidad, seguridad y desempeño.</p>
+    <a class="portfolio-text-link" href="/investigacion/">Conocer la línea de investigación <span aria-hidden="true">→</span></a>
+  </div>
+</section>
 
-## Áreas de especialización
-
-### Robótica colaborativa
-
-Desarrollo, integración y teleoperación de robots industriales y colaborativos, incluyendo Universal Robots UR3 y Yaskawa MOTOMAN HC10.
-
-### Realidad extendida
-
-Creación de experiencias de realidad mixta para Meta Quest 3, Microsoft HoloLens 2 y Apple Vision Pro utilizando Unity, OpenXR y herramientas de interacción espacial.
-
-### Gemelos digitales y comunicación
-
-Integración de robots reales y virtuales mediante Unity, RoboDK, MQTT, Python y sistemas de comunicación en tiempo real.
-
-### Inteligencia artificial aplicada
-
-Investigación de sistemas multiagente, aprendizaje acumulativo de habilidades, modelos predictivos y métodos neuro-simbólicos para la interacción humano-robot.
-
-### Automatización y sistemas ciberfísicos
-
-Integración de PLC, IoT, comunicaciones industriales y plataformas inmersivas para supervisión, operación y capacitación.
-
----
-
-## Colaboración internacional
-
-He desarrollado y presentado plataformas de teleoperación robótica en colaboración con instituciones de Colombia, Polonia y Suecia:
-
-- **Pontificia Universidad Javeriana, Colombia:** teleoperación de un UR3 mediante realidad mixta.
-- **Białystok University of Technology, Polonia:** teleoperación de un UR5 con Meta Quest 3.
-- **Linnaeus University, Suecia:** programación y teleoperación de un Yaskawa HC10 mediante HoloLens 2.
-
----
-
-## Portafolio
-
-En este sitio encontrarás:
-
-- Mi perfil profesional y experiencia.
-- Proyectos de robótica y realidad extendida.
-- Investigación y publicaciones.
-- Currículum y medios de contacto.
-
----
-
-> Mi trabajo se centra en conectar el mundo físico y digital para desarrollar sistemas robóticos más intuitivos, seguros y accesibles.
+<section class="portfolio-collaboration" aria-labelledby="colaboracion-title">
+  <p class="portfolio-kicker">Colaboración internacional</p>
+  <h2 id="colaboracion-title">Proyectos desarrollados entre México y el mundo</h2>
+  <div class="portfolio-countries">
+    <span>Colombia · UR3</span>
+    <span>Polonia · UR5</span>
+    <span>Suecia · Yaskawa HC10</span>
+  </div>
+</section>
