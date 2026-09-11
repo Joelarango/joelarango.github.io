@@ -24,13 +24,19 @@ permalink: /
   </div>
 
   <aside class="portfolio-profile" aria-label="Resumen profesional">
-    <div class="portfolio-photo-frame">
-      <img src="/assets/images/joel-arango.jpeg" alt="Retrato profesional de Joel Arango Ramírez">
+    <div class="portfolio-profile__head">
+      <div class="portfolio-photo-frame">
+        <img src="/assets/images/joel-arango.jpeg" alt="Retrato profesional de Joel Arango Ramírez">
+      </div>
+      <div>
+        <span class="portfolio-profile__label">Perfil académico</span>
+        <h2>Joel Arango Ramírez</h2>
+        <p class="portfolio-profile__position">Ingeniero mecatrónico · Doctorando</p>
+      </div>
     </div>
     <div class="portfolio-profile__body">
-      <span class="portfolio-profile__label">Perfil académico</span>
-      <h2>Investigación aplicada con impacto humano</h2>
-      <p>Jefe de Proyectos Especiales en la Universidad Iberoamericana Ciudad de México. Colaboraciones académicas en Colombia, Polonia y Suecia.</p>
+      <p>Investigo la integración de inteligencia artificial, robótica colaborativa y realidad extendida para desarrollar sistemas más intuitivos, verificables y centrados en las personas.</p>
+      <span>Universidad Iberoamericana Ciudad de México</span>
     </div>
   </aside>
 </section>
