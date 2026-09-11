@@ -9,8 +9,6 @@ search_enabled: true
 heading_anchors: true
 
 aux_links:
-  "Perfil de GitHub":
-    - "https://github.com/joelarango"
   "ResearchGate":
     - "https://www.researchgate.net/profile/Joel-Arango"
   "YouTube":
