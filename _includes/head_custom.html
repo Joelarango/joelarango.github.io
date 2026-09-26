@@ -1,0 +1,42 @@
+<link rel="stylesheet" href="{{ '/assets/css/language-switcher.css' | relative_url }}">
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const currentPath = window.location.pathname.replace(/\/+$/, "") || "/";
+  const isEnglish = currentPath === "/en" || currentPath.startsWith("/en/");
+  document.documentElement.lang = isEnglish ? "en" : "es";
+  const pairs = {
+    "/": "/en/", "/perfil": "/en/profile/", "/proyectos": "/en/projects/",
+    "/proyectos/yaskawa-hololens": "/en/projects/yaskawa-hololens/",
+    "/proyectos/quest-universal-robots": "/en/projects/quest-universal-robots/",
+    "/proyectos/ur3-javeriana": "/en/projects/ur3-javeriana/",
+    "/proyectos/ur5-bialystok": "/en/projects/ur5-bialystok/",
+    "/investigacion": "/en/research/",
+    "/investigacion/publicaciones": "/en/research/publications/",
+    "/docencia": "/en/teaching/",
+    "/proyectos-estudiantes": "/en/student-projects/"
+  };
+  const reversePairs = Object.fromEntries(Object.entries(pairs).map(function (pair) {
+    const english = pair[1].replace(/\/+$/, "") || "/";
+    return [english, pair[0] === "/" ? "/" : pair[0] + "/"];
+  }));
+  const alternate = isEnglish ? reversePairs[currentPath] : pairs[currentPath];
+  const switcher = document.createElement("nav");
+  switcher.className = "language-switcher";
+  switcher.setAttribute("aria-label", isEnglish ? "Language selector" : "Selector de idioma");
+  const esHref = isEnglish ? (alternate || "/") : window.location.pathname;
+  const enHref = isEnglish ? window.location.pathname : (alternate || "/en/");
+  switcher.innerHTML =
+    '<a href="' + esHref + '"' + (!isEnglish ? ' class="active" aria-current="page"' : "") + '>ES</a>' +
+    '<span aria-hidden="true">|</span>' +
+    '<a href="' + enHref + '"' + (isEnglish ? ' class="active" aria-current="page"' : "") + '>EN</a>';
+  document.body.appendChild(switcher);
+  document.querySelectorAll(".nav-list-item").forEach(function (item) {
+    const link = item.querySelector(":scope > a.nav-list-link");
+    if (!link) return;
+    const url = new URL(link.href, window.location.origin);
+    if (url.origin !== window.location.origin) return;
+    const linkIsEnglish = url.pathname === "/en/" || url.pathname.startsWith("/en/");
+    if (linkIsEnglish !== isEnglish) item.hidden = true;
+  });
+});
+</script>
