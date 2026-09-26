@@ -37,7 +37,7 @@ Desarrollo y coordinación de proyectos tecnológicos y académicos relacionados
 
 ### Docencia, mentoría e ingeniería aplicada
 
-Mi participación con los estudiantes va más allá de la asesoría conceptual. Colaboro activamente en la solución técnica de los proyectos: análisis del problema, selección de componentes, diseño de la arquitectura, programación, integración de hardware y software, diagnóstico de fallas, pruebas y documentación.
+Colaboro activamente en la solución técnica de los proyectos: análisis del problema, selección de componentes, diseño de la arquitectura, programación, integración de hardware y software, pruebas y documentación.
 
 Esta forma de trabajo permite convertir una idea académica en un prototipo funcional y robusto, mientras los estudiantes desarrollan criterio de ingeniería y comprenden cómo se relacionan las distintas disciplinas.
 
@@ -76,7 +76,7 @@ Experiencia desde 2018 en el desarrollo de soluciones mediante páginas web, apl
 - Teleoperación y programación de robots colaborativos.
 - Gemelos digitales, simulación y validación con Unity y RoboDK.
 - PLC, HMI, IoT y automatización de procesos.
-- Programación URScript e INFORM.
+- Programación URScript.
 - Integración de robots reales, simuladores, interfaces XR y servicios de comunicación.
 
 ### Realidad extendida e interacción humano-computadora
@@ -109,14 +109,12 @@ Experiencia desde 2018 en el desarrollo de soluciones mediante páginas web, apl
 ### Electrónica, motores y telecomunicaciones
 
 - Selección e integración de sensores, actuadores, módulos electrónicos y fuentes de alimentación.
-- Lectura, acondicionamiento y adquisición de señales para monitoreo y control.
 - Control de motores de corriente directa, servomotores y motores paso a paso.
 - Integración de etapas de potencia, controladores y mecanismos en prototipos mecatrónicos.
 - Diseño de arquitecturas de comunicación entre dispositivos, computadoras, plataformas web y servicios en la nube.
 - Redes cableadas e inalámbricas para telemetría, supervisión y control remoto.
 - Protocolos MQTT, TCP/IP, UDP, WebSocket, OPC, Wi-Fi y Bluetooth.
-- Diagnóstico de fallas de hardware, comunicación y software durante la integración.
-- Pruebas funcionales, documentación técnica y mejora iterativa de prototipos.
+- Documentación técnica y mejora iterativa de prototipos.
 
 ### Sistemas embebidos, microcontroladores y edge computing
 
@@ -136,7 +134,7 @@ Programación e integración de microcontroladores, microcomputadoras y platafor
 - HTML, CSS, JavaScript y desarrollo full stack.
 - JSON, API y servicios web.
 - MQTT, WebSocket, TCP/IP y UDP.
-- OPC y comunicaciones industriales.
+- MODBUS y comunicaciones industriales.
 - Git y control de versiones.
 - Integración de hardware y software en arquitecturas distribuidas.
 
