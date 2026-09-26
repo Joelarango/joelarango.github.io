@@ -52,7 +52,6 @@ Mi participación incluye acompañamiento conceptual y trabajo técnico directo 
 - Selección e integración de componentes electrónicos.
 - Programación de microcontroladores, aplicaciones y comunicaciones.
 - Integración de sensores, actuadores, motores, bases de datos y servicios web.
-- Diagnóstico de fallas, pruebas y mejora iterativa.
 - Documentación técnica, presentación y publicación de resultados.
 - Creación de portafolios mediante GitHub Pages.
 
