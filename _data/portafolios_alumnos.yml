@@ -1,0 +1,20 @@
+# Portafolios publicados por estudiantes.
+# Para agregar un sitio, sustituye los datos del ejemplo y elimina el símbolo #.
+#
+# sistemas_ciberfisicos:
+#   - estudiante: "Nombre del estudiante o equipo"
+#     proyecto: "Título del proyecto"
+#     descripcion: "Descripción breve del sistema desarrollado."
+#     sitio: "https://usuario.github.io/repositorio/"
+#     repositorio: "https://github.com/usuario/repositorio"
+#
+# tecnologias_emergentes:
+#   - estudiante: "Nombre del estudiante o equipo"
+#     proyecto: "Título del portafolio"
+#     descripcion: "Descripción breve de las prácticas o del prototipo."
+#     sitio: "https://usuario.github.io/repositorio/"
+#     repositorio: "https://github.com/usuario/repositorio"
+
+sistemas_ciberfisicos: []
+
+tecnologias_emergentes: []
