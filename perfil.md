@@ -58,6 +58,8 @@ He desarrollado proyectos orientados a:
 
 - Python.
 - C#.
+- C
+- C++
 - MQTT.
 - UDP y TCP.
 - JSON.
