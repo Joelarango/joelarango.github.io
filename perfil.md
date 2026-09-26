@@ -24,7 +24,8 @@ Combino ingeniería, investigación, desarrollo tecnológico y docencia para:
 - Integrar dispositivos físicos con aplicaciones, servidores, bases de datos y servicios en la nube.
 - Diseñar experiencias intuitivas para operar, supervisar y aprender con sistemas robóticos.
 - Coordinar proyectos multidisciplinarios de automatización, inteligencia artificial, XR e IoT.
-- Acompañar a estudiantes en proyectos de alto impacto, prototipos y publicaciones académicas.
+- Acompañar a estudiantes en proyectos de alto impacto, desde la definición del problema hasta la integración, las pruebas y la documentación del prototipo.
+- Combinar electrónica, control, telecomunicaciones y software para construir soluciones robustas y reproducibles.
 
 ## Experiencia profesional
 
@@ -34,7 +35,11 @@ Combino ingeniería, investigación, desarrollo tecnológico y docencia para:
 
 Desarrollo y coordinación de proyectos tecnológicos y académicos relacionados con robótica colaborativa, automatización, inteligencia artificial, sistemas ciberfísicos, realidad extendida y formación basada en proyectos.
 
-### Docencia y asesoría tecnológica
+### Docencia, mentoría e ingeniería aplicada
+
+Mi participación con los estudiantes va más allá de la asesoría conceptual. Colaboro activamente en la solución técnica de los proyectos: análisis del problema, selección de componentes, diseño de la arquitectura, programación, integración de hardware y software, diagnóstico de fallas, pruebas y documentación.
+
+Esta forma de trabajo permite convertir una idea académica en un prototipo funcional y robusto, mientras los estudiantes desarrollan criterio de ingeniería y comprenden cómo se relacionan las distintas disciplinas.
 
 Experiencia en enseñanza y acompañamiento de proyectos de:
 
@@ -44,6 +49,10 @@ Experiencia en enseñanza y acompañamiento de proyectos de:
 - Unity y tecnologías inmersivas.
 - Inteligencia artificial y agentes.
 - Desarrollo de proyectos de automatización y manufactura flexible.
+- Electrónica aplicada, sensores, actuadores y sistemas de potencia.
+- Motores eléctricos, control de movimiento y mecanismos.
+- Telecomunicaciones, redes y transmisión de datos.
+- Integración y validación de prototipos multidisciplinarios.
 
 ### Desarrollo e innovación tecnológica
 
@@ -97,6 +106,18 @@ Experiencia desde 2018 en el desarrollo de soluciones mediante páginas web, apl
 - Registro de telemetría, trayectorias, estados de dispositivos y resultados experimentales.
 - Integración de bases de datos con aplicaciones, servicios y sistemas de automatización.
 
+### Electrónica, motores y telecomunicaciones
+
+- Selección e integración de sensores, actuadores, módulos electrónicos y fuentes de alimentación.
+- Lectura, acondicionamiento y adquisición de señales para monitoreo y control.
+- Control de motores de corriente directa, servomotores y motores paso a paso.
+- Integración de etapas de potencia, controladores y mecanismos en prototipos mecatrónicos.
+- Diseño de arquitecturas de comunicación entre dispositivos, computadoras, plataformas web y servicios en la nube.
+- Redes cableadas e inalámbricas para telemetría, supervisión y control remoto.
+- Protocolos MQTT, TCP/IP, UDP, WebSocket, OPC, Wi-Fi y Bluetooth.
+- Diagnóstico de fallas de hardware, comunicación y software durante la integración.
+- Pruebas funcionales, documentación técnica y mejora iterativa de prototipos.
+
 ### Sistemas embebidos, microcontroladores y edge computing
 
 Programación e integración de microcontroladores, microcomputadoras y plataformas de procesamiento en el borde para adquisición de datos, control, conectividad e inteligencia artificial.
@@ -128,6 +149,7 @@ Programación e integración de microcontroladores, microcomputadoras y platafor
 - Plataformas con Raspberry Pi para servidores, portales web, multimedia y control de dispositivos.
 - Proyectos con Jetson Nano para IA, cámaras, sensores y robótica.
 - Asesoría de una plataforma de realidad mixta para operación de PLC, publicada en CDSR 2025.
+- Desarrollo conjunto con estudiantes de prototipos que integran electrónica, motores, sensores, telecomunicaciones, control y software.
 
 ## Formación académica
 
@@ -145,7 +167,8 @@ Programación e integración de microcontroladores, microcomputadoras y platafor
 6. Edge computing, sistemas embebidos e IoT.
 7. Aplicaciones web, bases de datos y plataformas de integración.
 8. Automatización y sistemas ciberfísicos.
-9. Formación y mentoría de estudiantes en proyectos tecnológicos de alto impacto.
+9. Electrónica aplicada, control de motores y telecomunicaciones.
+10. Formación y mentoría de estudiantes en proyectos tecnológicos de alto impacto.
 
 ## Colaboraciones internacionales
 
