@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Proyectos de estudiantes
-nav_order: 5
+nav_order: 6
 description: Proyectos estudiantiles desarrollados con asesoría académica y tecnológica de Joel Arango Ramírez.
 permalink: /proyectos-estudiantes/
 ---

@@ -173,3 +173,73 @@ $feedback-color: #18212b;
   .portfolio-actions { flex-direction: column; }
   .portfolio-actions .btn { width: 100%; text-align: center; }
 }
+
+
+// Docencia y portafolios de estudiantes
+.teaching-intro {
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.5rem;
+  border: 1px solid #2c3b49;
+  border-left: 4px solid #55c7d6;
+  border-radius: 4px 16px 16px 4px;
+  background: linear-gradient(145deg, #121b24, #0d141b);
+}
+
+.teaching-intro p { margin: 0; color: #b3c0cb; line-height: 1.75; }
+
+.course-grid,
+.student-sites-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.course-card,
+.student-site-card {
+  padding: 1.35rem;
+  border: 1px solid #2d3d4b;
+  border-radius: 16px;
+  background: #111922;
+}
+
+.course-card span,
+.student-site-card__course {
+  display: block;
+  margin-bottom: .55rem;
+  color: #55c7d6;
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.course-card h3,
+.student-site-card h3 { margin-bottom: .55rem; color: #fff; }
+
+.course-card p,
+.student-site-card p { color: #9eacb9; font-size: .88rem; line-height: 1.65; }
+
+.student-site-card__student { color: #d4dde5 !important; font-weight: 600; }
+
+.student-site-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1rem; }
+.student-site-actions a { padding: .45rem .72rem; border: 1px solid #3a5062; border-radius: 999px; color: #76d2de; font-size: .76rem; font-weight: 600; }
+.student-site-actions a:hover { border-color: #55c7d6; background: rgba(85,199,214,.07); text-decoration: none; }
+
+.student-sites-empty {
+  margin: 1rem 0 2rem;
+  padding: 1rem 1.2rem;
+  border: 1px dashed #3a4c5c;
+  border-radius: 12px;
+  color: #8fa0af;
+  font-size: .88rem;
+}
+
+.portfolio-data-help { margin: 2rem 0; padding: 1rem 1.2rem; border: 1px solid #2d3d4b; border-radius: 12px; background: #0f171f; }
+.portfolio-data-help summary { color: #dbe5ec; font-weight: 600; cursor: pointer; }
+.portfolio-data-help p { color: #9eacb9; font-size: .86rem; }
+
+@media (max-width: 700px) {
+  .course-grid,
+  .student-sites-grid { grid-template-columns: 1fr; }
+}
