@@ -16,6 +16,7 @@ Joel Arango-Ramirez, Malinali M. Perez-Sanchez, Mario Ramirez-Neria, and Eduardo
 *11th International Conference of Control, Dynamic Systems, and Robotics (CDSR 2024)*, Toronto, Canada, 2024.
 
 - DOI: [10.11159/cdsr24.133](https://doi.org/10.11159/cdsr24.133)
+- **Indexed in:** [Scopus](https://www.scopus.com/pages/publications/85200259058) — document ID: `85200259058`.
 - Role: first author and presenter.
 
 ## Conference presentation
@@ -34,6 +35,7 @@ Jorge Emilio García Contreras, Javier Villafuerte de Gortari, and Joel Arango-R
 - DOI: [10.11159/cdsr25.143](https://doi.org/10.11159/cdsr25.143)
 - Contribution: academic and technical supervision of the student project.
 
-## Academic profile
+## Academic profiles and records
 
+- [Scopus-indexed publication](https://www.scopus.com/pages/publications/85200259058)
 - [ResearchGate](https://www.researchgate.net/profile/Joel-Arango)
